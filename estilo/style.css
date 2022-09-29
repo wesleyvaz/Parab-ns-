@@ -73,12 +73,13 @@ section.imagem {
 }
 section#img01 {
     background-image: url('../imagens/ana-julia.jpeg');
-    background-position: right center;
+    background-position: left center ;
     background-size: cover;
 }
 section#img02 {
     background-image: url('../imagens/Mariana.jpg');
     background-size: cover;
+    background-position: right center;
 }
 
 section.imagem > p {
